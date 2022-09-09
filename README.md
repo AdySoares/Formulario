@@ -1,0 +1,1 @@
+Esse é um projeto para avaliar as minhas habilidades como front-end e adicionar conteúdo para o meu portfólio;
